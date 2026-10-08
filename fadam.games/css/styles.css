@@ -1,0 +1,17 @@
+/* :root{
+    --bleu nuit: #0B1F3A;
+    --or #F2B705;
+    --corail #E94F37;
+    --clair #F7F7F2 
+} */
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    font-weight: 1100;
+    background-color:#0B1F3A ;
+}
+header{
+    background-color: #0B1F3A;
+}
