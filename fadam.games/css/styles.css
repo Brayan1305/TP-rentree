@@ -11,7 +11,21 @@ html {
 main{
     font-weight: 1100;
     background-color:#0B1F3A ;
+    color: #F7F7F2;
 }
 header{
+    display: flex;
+    justify-content: space-between;
     background-color: #0B1F3A;
+    align-items: center;
+}
+
+.titre{
+    font-size: 30px;
+    color: #F7F7F2;
+}
+a{
+    border: none;
+    text-decoration: none;
+    color: #F7F7F2;
 }
